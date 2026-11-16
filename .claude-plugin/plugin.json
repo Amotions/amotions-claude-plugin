@@ -1,0 +1,15 @@
+{
+  "name": "amotions",
+  "displayName": "Amotions AI Sales Coach",
+  "version": "1.0.0",
+  "description": "Prep for calls, write follow-ups, sharpen objection handling and plan your practice from your own Amotions AI call scores, coaching and transcripts.",
+  "author": {
+    "name": "Amotions AI",
+    "email": "support@amotionsinc.com",
+    "url": "https://amotionsinc.com"
+  },
+  "homepage": "https://amotionsinc.com/docs/use-amotions-in-claude",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://amotionsinc.com/privacy-policy",
+  "keywords": ["sales", "sales coaching", "call coaching", "objection handling", "follow-up email"]
+}

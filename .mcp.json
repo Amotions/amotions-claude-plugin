@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "amotions": {
+      "type": "http",
+      "url": "https://amotionsinc.com/mcp"
+    }
+  }
+}
